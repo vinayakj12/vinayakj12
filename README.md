@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-vinayakjha965@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinayakjha965@gmail.com)](mailto:vinayakjha965@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://vinayakj12.github.io/Portfolio/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
